@@ -42,7 +42,9 @@ footer.page-footer {
 .new1 {
     max-width: 100rem;
 }
-
+.img-fit {
+    width: fit-content;
+}
 
 /*  Date  */
 
