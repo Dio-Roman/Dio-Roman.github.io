@@ -39,7 +39,12 @@ footer.page-footer {
 .news {
     margin-top: 3rem;
 }
-
+.new1 {
+    max-width: 100rem;
+}
+.img-fit {
+    width: fit-content;
+}
 
 /*  Date  */
 
